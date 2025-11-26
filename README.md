@@ -35,3 +35,9 @@ It is proposed to develop a software tool that reduces the administrative burden
 - **Expected Outcomes:** A ready-made solution demonstrating the core functionality (transaction) – managing the process of grant application and execution.
 
 ---
+
+### Rules:
+- **At the time of the start of development, share the project's git repository with experts.**
+- **Upload the code to your git after stop-coding.**
+- **Upload the presentation to your git.**
+- **Provide the code with a brief description of how to deploy the proposed solution.**
